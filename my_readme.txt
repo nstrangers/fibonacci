@@ -38,3 +38,4 @@
 11. Слияние веток
     git merge name_branch
 
+12. Конец
