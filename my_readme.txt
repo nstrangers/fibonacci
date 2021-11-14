@@ -22,3 +22,15 @@
 
     комментарий можно не писать
     git commit
+
+7. История
+    git log
+
+8. Создание новой ветки
+    git branch name_new_branch
+
+9. Посмотреть все ветки
+    git branch
+
+10. Сменить ветку
+    git checkout name_branch
