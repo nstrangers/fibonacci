@@ -36,3 +36,5 @@
     git checkout name_branch
 
 11. Слияние веток
+    git merge name_branch
+
