@@ -34,3 +34,5 @@
 
 10. Сменить ветку
     git checkout name_branch
+
+11. Слияние веток
